@@ -52,7 +52,7 @@ PoseEstimation::PoseEstimation(SystemModel *system_model)
   base_frame_ = "base_link";
   stabilized_frame_ = "base_stabilized";
   footprint_frame_ = "base_footprint";
-  // position_frame_ = "base_position";
+  position_frame_ = "base_position";
   global_reference_.latitude = 0.0;
   global_reference_.longitude = 0.0;
   global_reference_.altitude = 0.0;
