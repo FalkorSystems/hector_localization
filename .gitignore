@@ -1,0 +1,12 @@
+/hector_pose_estimation/bin/
+/hector_pose_estimation/build/
+/hector_pose_estimation/lib/
+/hector_pose_estimation_core/build/
+/hector_pose_estimation_core/lib/
+/hector_pose_estimation_rtt/build/
+/hector_pose_estimation_rtt/hector_pose_estimation_rtt.pc
+/hector_pose_estimation_rtt/lib/
+/world_magnetic_model/build/
+/world_magnetic_model/include/
+/world_magnetic_model/lib/
+/world_magnetic_model/model/
